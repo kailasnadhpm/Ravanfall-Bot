@@ -85,6 +85,6 @@ The latest version should always be published at the official Privacy Policy URL
 
 For privacy questions, data requests, or support, contact the Ravanfall Bot team through the official support Discord server:
 
-**Support Discord:** https://discord.gg/YOUR-SUPPORT-INVITE
+**Support Discord:** https://discord.gg/7Sy4epAcQy
 
 > Replace the support invite above with your real Discord support-server invite before publishing this document.
