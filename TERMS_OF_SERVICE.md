@@ -62,6 +62,6 @@ Continued use of Ravanfall Bot after changes are published means you accept the 
 
 For questions, support requests, Terms of Service questions, or other concerns, contact the Ravanfall Bot support team through the official support Discord server:
 
-**Support Discord:** https://discord.gg/YOUR-SUPPORT-INVITE
+**Support Discord:** https://discord.gg/7Sy4epAcQy
 
 > Replace the support invite above with your real Discord support-server invite before publishing this document.
